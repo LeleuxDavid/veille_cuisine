@@ -1,0 +1,84 @@
+img.logo
+{
+  width: 40%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#img_color
+{
+  background-color: #d20019;
+}
+
+ul#menu
+{
+	height: 35px;
+	margin: 0;
+	padding: 0;
+	background: black;
+	list-style-type: none;
+}
+
+ul#menu li
+{
+	float: left;
+	text-align: center;
+}
+
+ul#menu li a {
+	width: 185px;
+	line-height: 25px;
+	font-size: 1.2em;
+	font-weight: bold;
+	letter-spacing: 1px;
+	color: #fff;
+	display: block ;
+	text-decoration: none;
+	border-right: 2px solid #dea;
+}
+
+ul#menu li a:hover {
+	background: gray repeat-x 0 0;
+}
+
+main {
+	background-image: radial-gradient(circle at center, white, #E7ECEB);
+	width: 100%;
+	height: auto;
+	margin: auto;
+  float: left;
+}
+
+img.footer
+{
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bleu
+{
+  float: left;
+}
+
+.text_bann
+{
+  margin-right: 20%;
+  margin-top: 10%;
+}
+
+.red
+{
+  display: block;
+  float: right;
+  margin-top: -17%;
+}
+
+.texte_1
+{
+  margin-left: 60%
+  display: block;
+  float: left;
+}
